@@ -15,3 +15,5 @@ The spirit that arrives is not empty.
 It carries traces: the instinct to hunt, the memory of loneliness, fear, stillness, and social impulse—
 experiences belonging to both humans and animals.
 When these imprints combine with a forming body, they produce a new signature of a person.
+
+
