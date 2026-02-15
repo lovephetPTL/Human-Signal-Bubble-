@@ -24,3 +24,6 @@ a model describing consciousness as a transient signal pattern (ψ)
 that dissolves and recomposes within a non-temporal field.
 
 → See full concept: [CONCEPT.md](01_CONCEPT.md)
+
+
+→ Mathematical description: [05_FORMALISM.md](05_FORMALISM.md)
