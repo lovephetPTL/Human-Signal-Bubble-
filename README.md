@@ -23,4 +23,4 @@ This project explores a hypothesis called **Human Signal Bubble** —
 a model describing consciousness as a transient signal pattern (ψ)
 that dissolves and recomposes within a non-temporal field.
 
-→ See full concept: [CONCEPT.md](CONCEPT.md)
+→ See full concept: [CONCEPT.md](01_CONCEPT.md)
