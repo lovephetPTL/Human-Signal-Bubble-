@@ -17,3 +17,12 @@ experiences belonging to both humans and animals.
 When these imprints combine with a forming body, they produce a new signature of a person.
 
 
+## Concept
+
+This project explores a hypothesis called **Human Signal Bubble** —
+a model describing consciousness as a transient signal pattern (ψ)
+that dissolves and recomposes within a non-temporal field.
+
+→ See full concept: [concept.md](concept.md)
+
+(Thai explanation available here: [concept.th.md](concept.th.md))
