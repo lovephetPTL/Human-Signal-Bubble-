@@ -27,3 +27,7 @@ that dissolves and recomposes within a non-temporal field.
 
 
 → Mathematical description: [05_FORMALISM.md](05_FORMALISM.md)
+
+
+- [06_COMPARISON_WITH_AI.md](06_COMPARISON_WITH_AI.md)
+  Contrast between ψ-process and artificial systems.
