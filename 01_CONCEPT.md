@@ -1,27 +1,58 @@
-## Concept (English)
+# Concept: ψ as a Transient Experiential Pattern
 
-This model proposes that when a living organism ceases,
-its mental state (ψ) does not vanish,
-but undergoes decomposition and dispersion
-into a collective signal field.
+## Definition
 
-Emotional intensities such as
-joy, grief, determination, anger, and desire
-are compressed into a final-state configuration,
-then immediately disperse.
+ψ (psi) is defined as a transient experiential pattern
+emerging within an active biological system.
 
-This transition is timeless.
-The signal is projected toward new points of fertilization
-in a stochastic manner,
-analogous to a jet from a black hole,
-but operating in informational space rather than physical matter.
+It is not an entity, not a substance, and not a persistent identity.
+It is a temporary organization of experience occurring during life.
 
-In cases of extreme ψ intensity,
-a temporary coherence may persist,
-described as a Residual Membrane.
-This persistence is not measured by time,
-but by signal density.
+---
 
-The framework is intended as a conceptual exploration
-within complexity science and information recomposition,
-not as a religious explanation.
+## Nature of ψ
+
+ψ exists only while a living system maintains integrated activity.
+When biological activity ceases, the pattern loses stability
+and dissolves as an organized structure.
+
+No identity is preserved.
+No memory is carried.
+Only the pattern configuration ceases.
+
+---
+
+## Dissolution
+
+The end of biological integration results in:
+
+- Loss of structural coherence
+- Collapse of experiential organization
+- Redistribution of underlying informational dynamics
+
+This process is not directional and does not imply transition
+to another place or state of existence.
+
+---
+
+## Recomposition
+
+New living systems generate new ψ patterns independently.
+
+Recomposition is not transmission.
+It is re-emergence under new biological conditions.
+
+---
+
+## Scope of This Model
+
+This model does NOT describe:
+
+- An afterlife or metaphysical realm
+- Survival of personal identity
+- Supernatural mechanisms
+- Transfer of consciousness between beings
+
+This model ONLY describes the formation and dissolution
+of experiential organization in living systems.
+
